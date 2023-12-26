@@ -60,7 +60,7 @@ nav a:hover {
 nav>a {
     color: white;
     text-decoration: none;
-    transition-duration: 1s;
+    transition-duration: 1.5s;
 }
 
 main {
