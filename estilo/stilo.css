@@ -95,6 +95,13 @@ main h2 {
     font-family: var(--font-android);
 }
 
+#bugdroid{
+display: block;
+max-width: 320px;
+margin: auto;
+
+}
+
 footer {
     background-color: var(--cor5);
     color: white;
