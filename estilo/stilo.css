@@ -99,7 +99,7 @@ main h2 {
     font-family: var(--font-android);
 }
 
-main img{
+main img#bugdroid{
 display: block;
 max-width: 320px;
 margin: auto;
