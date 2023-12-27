@@ -67,7 +67,7 @@ nav>a {
 
 main {
     background-color: white;
-    max-width: 800px;
+    max-width: 900px;
     margin: auto;
     padding: 10px;
     text-align: justify;
@@ -114,8 +114,8 @@ margin: auto;
 }
 .ft-pq {
     display: block;
-    margin: auto;
-    width: 320px;
+    
+    
 }
 main a:after {
 content: "\1F517\00A0";
