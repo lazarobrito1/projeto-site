@@ -35,7 +35,9 @@ body {
 header {
     background-color: var(--cor4);
     text-align: center;
-    background-image: linear-gradient(to bottom, #3ddc84, #1a5c37);
+    background-image: linear-gradient(to bottom, #3ddc84, #1a5c3750);
+    padding: 30px;
+    
 }
 
 header>p {
@@ -43,8 +45,8 @@ header>p {
 }
 
 nav {
-    background-color: var(--cor4);
-    padding: 5px;
+    background-color: var(--cor5);
+    padding: 8px;
 
 
 }
@@ -104,6 +106,16 @@ display: block;
 max-width: 320px;
 margin: auto;
 
+}
+.ft-gr{
+    
+    display: block;
+    margin: auto;
+}
+.ft-pq {
+    display: block;
+    margin: auto;
+    width: 320px;
 }
 main a:after {
 content: "\1F517\00A0";
